@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\\u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\webmvc9dbfirstpro\\schoolapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\\u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\webmvc9dbfirstpro\\schoolapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\\u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\webmvc9dbfirstpro\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-11T17:47:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SchoolApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:45:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03AF\u03B1\\source\\repos\\WebMVC9DBFirstPro\\SchoolApp\\Program.cs",
+              "RelativeToolTip": "SchoolApp\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:55:02.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
